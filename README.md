@@ -30,25 +30,6 @@ This project will continue to be improved and upgraded in the future as I learn 
 * XAMPP / phpMyAdmin
 * Visual Studio Code
 
-## Project Structure
-
-```text
-CarStoreManager/
-│
-├── login.php
-├── logout.php
-├── validation.php
-├── homepage.php
-├── addcar.php
-├── edit.php
-├── deletecar.php
-├── customer.php
-├── contract.php
-├── connection.php
-├── data.sql
-└── README.md
-```
-
 ## How to Run
 
 1. Clone this repository:
